@@ -7,7 +7,7 @@ export const Bio = {
     // "Programmer",
   ],
   description:
-    "Hello, I'm Akshay, a DevOps engineer with a flair for streamlining operations through the magic of automation, continuous integration, and deployment. Over the past year, I've honed my skills and expertise in the dynamic fields of DevOps and cloud computing. My journey has been marked by hands-on experience and a deep dive into the world of cutting-edge technologies.",
+    "Hello, I'm Dhiraj, a DevOps engineer with a flair for streamlining operations through the magic of automation, continuous integration, and deployment. Over the past year, I've honed my skills and expertise in the dynamic fields of DevOps and cloud computing. My journey has been marked by hands-on experience and a deep dive into the world of cutting-edge technologies.",
   github: "https://github.com/akshayshinde3",
   resume:
     "https://drive.google.com/file/d/1FkehjvxD4GVsTNXAhmhAqj2xJqgqCuXa/view",
